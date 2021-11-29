@@ -3,7 +3,8 @@ Denoise signal with SRN&lt;0 without reference
 
 ![alt text](https://github.com/antecessor/DenoiseSignalAdaptiveBSS/blob/master/Pic1.png?raw=true)
 
-## run Main.m in Matlab. 
+## run
+Main.m in Matlab. 
 <br/>
 your ecg.mat should include a ecgn vector of noisy ECG signal.
 
